@@ -1,4 +1,4 @@
-# 🤖Landbot AI Educational Chatbot
+# 🤖LearnBotAI AI Educational Chatbot
 
 This repository hosts a Landbot AI Agent created as an interactive educational chatbot to teach AI fundamentals.
 
