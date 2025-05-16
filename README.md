@@ -23,6 +23,7 @@ The AI Fundamentals Chatbot is designed to teach users about core concepts in ar
  - if user asks questions out of scope AI agent implements edge case sequence.
  - Agent returns to initial prompt
 
-📬 Feedback and Contributions
+## 📬 Feedback and Contributions
 
 We welcome feedback and contributions! If you have suggestions or would like to enhance the chatbot's capabilities, feel free to open an issue or submit a pull request.
+
